@@ -1,0 +1,11 @@
+@import "styles/mixins";
+
+.shadown{
+  @include shadow;
+  padding: 20;
+}
+
+.card {
+  @include card
+
+}
